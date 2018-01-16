@@ -1,2 +1,2 @@
 # Pagina1
-Página web estática muy simple.
+Very simple static website to use for learning Git. 
